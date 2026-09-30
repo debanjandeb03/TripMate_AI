@@ -1,0 +1,7 @@
+{
+  "name": "TripMate: Agentic AI Travel Planner",
+  "description": "An Agentic AI Travel Planner featuring RAG, live tools, anti-hallucination self-evaluation, and conversation memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
